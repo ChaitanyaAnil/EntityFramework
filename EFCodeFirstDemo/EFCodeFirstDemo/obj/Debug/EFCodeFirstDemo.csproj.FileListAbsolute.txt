@@ -1,0 +1,15 @@
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EFCodeFirstDemo.exe.config
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EFCodeFirstDemo.exe
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EFCodeFirstDemo.pdb
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EntityFramework.dll
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\log4net.dll
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EntityFramework.xml
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\log4net.xml
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.csprojResolveAssemblyReference.cache
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.csproj.CoreCompileInputs.cache
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.exe
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.pdb
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.Migrations.CreateEmployee.resources
+D:\EntityFramework\EFCodeFirstDemo\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.csproj.GenerateResource.Cache
